@@ -60,4 +60,5 @@ Watch a [video](https://www.dropbox.com/s/elm5glzc8lxrxo9/How%20To%20Run%20Tests
 
 #### Allure Report
 
-<img width="500" alt="allure-report" src="https://user-images.githubusercontent.com/91348165/218247062-f1314ae9-f1b5-4e04-98b5-91ff7cf952ed.png">  <img width="500" alt="allure-results" src="https://user-images.githubusercontent.com/91348165/218247064-25de3fff-5295-467d-97f0-97ebce4a434e.png">
+<img width="1400" alt="allure-report" src="https://user-images.githubusercontent.com/91348165/218247062-f1314ae9-f1b5-4e04-98b5-91ff7cf952ed.png">
+<img width="1400" alt="allure-results" src="https://user-images.githubusercontent.com/91348165/218247064-25de3fff-5295-467d-97f0-97ebce4a434e.png">

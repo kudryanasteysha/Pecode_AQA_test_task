@@ -1,3 +1,5 @@
+let count = 0;
+
 exports.config = {
     //
     // ====================
